@@ -6,7 +6,12 @@ Colne the entire repository to run the games and simulation.
 Thank you fo ryou time. 
 
 Best 
+
 Jay Garg
+
 jaygarg1019@gmail.com
+
 https://jay-garg.com/
+
 https://www.linkedin.com/in/jay-garg-b1a54b107/
+
