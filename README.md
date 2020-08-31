@@ -1,7 +1,7 @@
 # unity3d-game
 
 Each folder in the repository has the corresponding .exe file. It supports windows OS only. 
-Cole the entire repository to run the games and simulation. 
+Colne the entire repository to run the games and simulation. 
 
 Thank you fo ryou time. 
 
